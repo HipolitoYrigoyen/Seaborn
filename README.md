@@ -1,6 +1,7 @@
 # Análisis de la Librería Seaborn 📊
 
-![Seaborn Logo](https://seaborn.pydata.org/_static/seaborn-logo-white.svg)
+![image](https://github.com/user-attachments/assets/7a34960b-f486-4b8d-a4e5-0a929a8e02c9)
+
 
 Seaborn es una biblioteca de visualización de datos en Python basada en Matplotlib. Proporciona una interfaz de alto nivel para dibujar atractivos gráficos estadísticos, facilitando el análisis de datos. Este README ofrece una descripción detallada de los tipos de gráficos disponibles y los estilos recomendados para presentaciones profesionales.
 
